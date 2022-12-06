@@ -1,0 +1,19 @@
+.all-country{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.all{
+    position: sticky;
+    top : 37px;
+    background: #e5e5e5;
+    z-index: 99;
+    padding: 10px;
+    input{
+        padding: 8px 13px;
+        border : none;
+        border-radius: 15px;
+        background: #e5e5e5;
+    }
+}

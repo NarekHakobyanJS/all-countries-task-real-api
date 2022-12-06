@@ -1,0 +1,25 @@
+.countryPage{
+    width: 100%;
+    max-width: 1440px;
+    h1, h3 {
+        text-align: center;
+        margin : 0;
+        margin-bottom: 15px;
+    }
+    .countryDecription{
+        display: flex;
+        align-items: flex-start;
+        .countryImg{
+            margin-right: 38px;
+            h2{
+                margin-bottom: 15px;
+            }
+            .coatOfArms{
+                width: 180px;
+            }
+        }
+        .countryDesc{
+            
+        }
+    }
+}

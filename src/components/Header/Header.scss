@@ -1,0 +1,18 @@
+.header {
+    width: 100%;
+    max-width: 1440px;
+    display: flex;
+    position: sticky;
+    color: #61dafb;
+    z-index: 99;
+    top : 0;
+    justify-content: space-between;
+    align-items: center;
+    padding: 3px 15px;
+    height: 36px;
+    background: #121212;
+    -webkit-box-shadow: 1px 8px 8px 0px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 1px 8px 8px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: 1px 8px 8px 0px rgba(34, 60, 80, 0.2);
+
+}
